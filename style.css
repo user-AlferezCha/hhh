@@ -1,0 +1,40 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+tbody {
+    
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    box-shadow: 3px 5px 20px #000000;
+    margin: 36px auto;
+}
+
+table td {
+    border-bottom: 2px solid #00000099;
+    padding: 15;
+}
+
+.header {
+    text-align: center;
+    font-weight: 980;
+    font-size: large;
+    background-color: #297ff8;
+}
+
+.sem-ctaken td {
+     background-color: #ff0;
+}
+.sem-taken td {
+    background-color: #87ceeb;
+}
+.sem-header td {
+    font-weight: 850;
+    background-color: #e2e2e2;
+}
+
+
